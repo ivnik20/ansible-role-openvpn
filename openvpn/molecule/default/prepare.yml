@@ -1,3 +1,4 @@
+---
 - name: Prepare
   hosts: all
   gahter_facts: false
